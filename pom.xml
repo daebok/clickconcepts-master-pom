@@ -103,7 +103,7 @@
         <!-- @OVERRIDE this property per each project -->
         <repository.domain>github.com</repository.domain>
         <!-- @OVERRIDE this property per each project -->
-        <repository.user>mike-ensor</repository.user>
+        <repository.user>daebok</repository.user>
         <!-- @OVERRIDE this property per each project -->
         <repository.name>clickconcepts-master-pom</repository.name>
 
@@ -118,7 +118,7 @@
         <!-- @OVERRIDE [This is the branch that the web "pages" are located in. For GitHub, gh-pages; for BitBucket, master] -->
         <scm-publish.scmBranch>gh-pages</scm-publish.scmBranch>
         <!-- @OVERRIDE [SCM location for documentation repository]  -->
-        <scm-publish.pubScmUrl>scm:git:git@github.com:mike-ensor/clickconcepts-master-pom.git</scm-publish.pubScmUrl>
+        <scm-publish.pubScmUrl>scm:git:git@github.com:daebok/clickconcepts-master-pom.git</scm-publish.pubScmUrl>
         <scm-publish.siteDocOuputDirectory>${project.reporting.outputDirectory}</scm-publish.siteDocOuputDirectory>
 
         <!-- ========================  -->
@@ -165,7 +165,7 @@
         <plugin.release.version>2.5</plugin.release.version>
         <plugin.resources.version>2.6</plugin.resources.version>
         <plugin.scm-publish.version>1.0</plugin.scm-publish.version>
-        <plugin.site.version>3.2</plugin.site.version>
+        <plugin.site.version>3.3</plugin.site.version>
         <plugin.source.version>2.2.1</plugin.source.version>
         <plugin.surefire.version>2.17</plugin.surefire.version>
         <plugin.taglist.version>2.4</plugin.taglist.version>
